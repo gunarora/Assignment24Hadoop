@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniprise.UGAF.Business.PPO", "Business\PPO\Uniprise.UGAF.Business.PPO.csproj", "{87D39012-F478-4FF3-8219-CFD68F257B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniprise.UGAF.Presentation.PPO", "Presentation\PPO\Uniprise.UGAF.Presentation.PPO.csproj", "{0D7B3336-F843-4F97-8428-0BD582D1510D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D39012-F478-4FF3-8219-CFD68F257B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D39012-F478-4FF3-8219-CFD68F257B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D39012-F478-4FF3-8219-CFD68F257B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D39012-F478-4FF3-8219-CFD68F257B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7B3336-F843-4F97-8428-0BD582D1510D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7B3336-F843-4F97-8428-0BD582D1510D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7B3336-F843-4F97-8428-0BD582D1510D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7B3336-F843-4F97-8428-0BD582D1510D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AA66A69-4F0F-4CF5-BE7D-E97C883B5742}
+	EndGlobalSection
+EndGlobal
